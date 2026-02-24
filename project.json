@@ -11,7 +11,12 @@
       "hyperobject"
     ],
     "engine": "cadquery",
-    "export_formats": ["stl", "step", "glb", "3mf"]
+    "export_formats": [
+      "stl",
+      "step",
+      "glb",
+      "3mf"
+    ]
   },
   "modes": [
     {
@@ -62,5 +67,9 @@
       "step": 1
     }
   ],
-  "estimate_constants": {}
+  "estimate_constants": {},
+  "export_formats": [
+    "stl",
+    "3mf"
+  ]
 }
