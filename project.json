@@ -10,7 +10,8 @@
       "cadquery",
       "hyperobject"
     ],
-    "engine": "cadquery"
+    "engine": "cadquery",
+    "export_formats": ["stl", "step", "glb", "3mf"]
   },
   "modes": [
     {
