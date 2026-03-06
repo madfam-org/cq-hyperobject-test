@@ -75,6 +75,9 @@
   "export_formats": [
     "stl",
     "3mf",
-    "step"
+    "step",
+    "glb",
+    "gltf",
+    "obj"
   ]
 }
