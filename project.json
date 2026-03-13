@@ -11,8 +11,7 @@
     "difficulty": "beginner",
     "tags": [
       "test",
-      "cadquery",
-      "hyperobject"
+      "cadquery"
     ],
     "engine": "cadquery",
     "export_formats": [
