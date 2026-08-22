@@ -23,8 +23,11 @@
   },
   "modes": [
     {
-      "id": "default",
-      "label": "Basic Box",
+      "id": "box",
+      "label": {
+        "en": "Basic Box",
+        "es": "Caja Básica"
+      },
       "scad_file": "box.py",
       "parts": [
         "box"
@@ -37,14 +40,20 @@
   "parts": [
     {
       "id": "box",
-      "label": "Hyperbox",
+      "label": {
+        "en": "Hyperbox",
+        "es": "Hipercaja"
+      },
       "render_mode": 1
     }
   ],
   "parameters": [
     {
       "id": "width",
-      "label": "Width",
+      "label": {
+        "en": "Width",
+        "es": "Ancho"
+      },
       "type": "slider",
       "default": 10,
       "min": 5,
@@ -53,7 +62,10 @@
     },
     {
       "id": "length",
-      "label": "Length",
+      "label": {
+        "en": "Length",
+        "es": "Largo"
+      },
       "type": "slider",
       "default": 10,
       "min": 5,
@@ -62,7 +74,10 @@
     },
     {
       "id": "height",
-      "label": "Height",
+      "label": {
+        "en": "Height",
+        "es": "Alto"
+      },
       "type": "slider",
       "default": 10,
       "min": 5,
