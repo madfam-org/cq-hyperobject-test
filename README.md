@@ -1,3 +1,5 @@
+> **Archived 2026-09-04 (RFC 0038 §9 / ADR-020).** This repository is read-only. The cartridge now lives in vendored into `madfam-org/yantra4d` as an engine fixture (it is not a commons object). Open issues and pull requests there.
+
 # CadQuery Hyperobject Test
 
 > [!WARNING]
